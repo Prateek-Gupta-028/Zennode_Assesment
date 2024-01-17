@@ -1,0 +1,32 @@
+ZENNODE ASSESSMENT TASK 2
+
+1) Why do you like to join as a software engineer?
+
+Answer - I want to be a software developer because I've worked hard to develop skills that are relevant to this 
+industry and because this type of work brings me personal satisfaction. I've gained a lot of practical 
+experience since graduating.
+
+2) List of 3 software tools that inspire you. why do these tools inspire you?
+
+Answer - (i) VS CODE - The VS Code is a very important tool for coders. This is an Integrated Deevelopment Environment 
+that is very useful for the developers. It supports the lots of the languages and easy to use.
+(ii) Netbeans/ Esllipse - It is an IDE for a Projects supports the Java Language. Many functions and multiple options 
+provides to developes a highly supported projects.
+(iii) Pycharm - It is an Python IDE tool whichs provides the lots of the frameworks to create a web based solutions.
+
+3) List of 3 organizations you like to join in your career & why you like these organizations?
+  Zennode is an leading organization that provides the finest products in the market with all the customer needs. 
+Besides functionalities,  offer a solid UI to each of our products.
+
+4)How you position yourself industry after 2 years?
+
+I would like to part of leading company like yours where I can utilize my technical skills as a team member. Learn 
+lots of technical and personal skills in the time and want to be the part of company growth.
+
+5)List 3 project you have built?
+i) Dress Rental System - Dress Rental System is a multirole web application for the users easily rent their dress at 
+any place. I worked as a group leader during my academics.
+ii) Online Jewellary System - Online Jewellary System is a multirole web application for the users easily buy 
+jewellary at any place. I worked as a group leader during my academics.
+ii) Leftover Food Donation - I want to work an project Leftover Food Donation.Any party or event lots of the extra
+foods are left so with the help of this website trust or union take this food and donate to needy people.
